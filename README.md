@@ -38,13 +38,8 @@ A lo largo de mi carrera he participado en proyectos donde he construido aplicac
 - WordPress
 - Joomla
 - HTML5 & CSS3
-
----
-
-## 🚀 Proyectos Destacados
-
-(💡 Puedes agregar aquí enlaces a tus proyectos más importantes o tu portafolio personal)
-
+- Bootstrap
+- Tailwind
 ---
 
 ## 📫 Cómo contactarme
