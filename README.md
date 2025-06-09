@@ -31,7 +31,7 @@ A lo largo de mi carrera he participado en proyectos donde he construido aplicac
 ### DevOps y Herramientas
 - Docker
 - AWS
-- Git & GitHub
+- Git & GitHub & GitLab
 - PHPMyAdmin
 
 ### CMS y Otros
